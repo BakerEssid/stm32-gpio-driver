@@ -1,5 +1,6 @@
-# Driver GPIO
-Ce projet illustre le développement d’un driver GPIO bas niveau sur microcontrôleur STM32, en langage C embarqué et sous IAR Embedded Workbench.
-L’objectif est de comprendre et manipuler directement les registres matériels associés aux ports GPIO, notamment l’activation de l’horloge, 
-la configuration des modes de fonctionnement (entrée, sortie, alterné, analogique) et la lecture/écriture des états logiques.Le projet met en
-pratique l’usage du masquage binaire et des opérations bit à bit, essentiels pour le contrôle précis du matériel dans les systèmes embarqués.
+🚀 Projet de Contrôle GPIO STM32
+
+Ce projet met en œuvre un driver GPIO bas niveau pour les microcontrôleurs STM32, permettant la configuration
+et le contrôle des broches GPIO des différents ports (A à K) de la carte STM32F407 Discovery. 🛠️Il illustre 
+les principes fondamentaux de la programmation embarquée à travers la manipulation directe des registres matériels
+et l’utilisation d’opérations bit à bit (masquage, décalage, écriture sélective).
