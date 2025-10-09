@@ -21,7 +21,7 @@ Ce fichier contient la fonction main() qui gère l’initialisation des GPIO et 
 🔹 gpio.c
 Implémente les principales fonctions du driver GPIO :
 
-GPIO_ClockEnable(unsigned int *gpio_x) : Active l’horloge du port GPIO spécifié.
+`GPIO_ClockEnable(unsigned int *gpio_x)`: Active l’horloge du port GPIO spécifié.
 
 GPIO_DeInit(unsigned int *gpio_x) : Réinitialise le port GPIO.
 
