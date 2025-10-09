@@ -66,8 +66,11 @@ Consultez le fichier LICENSE pour plus d’informations.
 
 # 📧 Contact
 Pour toute question, suggestion ou collaboration, vous pouvez me contacter via :
+
 Email : baker.essid98@gmail.com
+
 LinkedIn : Baker Essid
+
 Je répondrai avec plaisir à vos messages et discussions autour du projet.
 
 
