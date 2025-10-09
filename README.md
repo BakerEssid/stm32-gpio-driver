@@ -69,7 +69,7 @@ Pour toute question, suggestion ou collaboration, vous pouvez me contacter via :
 
 Email : baker.essid98@gmail.com
 
-LinkedIn : Baker Essid
+LinkedIn : https://www.linkedin.com/in/baker-essid-b27b311b9/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bgh8EYV5MTL%2BDU11rWtcMPA%3D%3D
 
 Je répondrai avec plaisir à vos messages et discussions autour du projet.
 
