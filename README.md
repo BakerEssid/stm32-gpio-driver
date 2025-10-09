@@ -23,17 +23,17 @@ Implémente les principales fonctions du driver GPIO :
 
 `GPIO_ClockEnable(unsigned int *gpio_x)`: Active l’horloge du port GPIO spécifié.
 
-GPIO_DeInit(unsigned int *gpio_x) : Réinitialise le port GPIO.
+`GPIO_DeInit(unsigned int *gpio_x)`: Réinitialise le port GPIO.
 
-GPIO_Init(unsigned int *gpio_x, char Mode, char typeOutput, short int pin) : Configure le mode et le type de sortie d’une broche.
+`GPIO_Init(unsigned int *gpio_x, char Mode, char typeOutput, short int pin)`: Configure le mode et le type de sortie d’une broche.
 
-GPIO_ReadInputDataBit(unsigned int *gpio_x, unsigned short int GPIO_Pin) : Lit l’état logique d’une broche donnée.
+`GPIO_ReadInputDataBit(unsigned int *gpio_x, unsigned short int GPIO_Pin)`: Lit l’état logique d’une broche donnée.
 
-GPIO_ReadInputData(unsigned int *gpio_x) : Lit l’ensemble des bits d’un port GPIO.
+`GPIO_ReadInputData(unsigned int *gpio_x)`: Lit l’ensemble des bits d’un port GPIO.
 
-GPIO_WriteBit(unsigned int *gpio_x, unsigned short int GPIO_Pin, char BitVal) : Modifie l’état d’une broche (mise à 1 ou à 0).
+`GPIO_WriteBit(unsigned int *gpio_x, unsigned short int GPIO_Pin, char BitVal)`: Modifie l’état d’une broche (mise à 1 ou à 0).
 
-GPIO_Write(unsigned int *gpio_x, unsigned short int PortVal) : Écrit une valeur sur tout le port GPIO.
+`GPIO_Write(unsigned int *gpio_x, unsigned short int PortVal)`: Écrit une valeur sur tout le port GPIO.
 
 🔹 gpio.h
 Contient les prototypes des fonctions et les définitions de macros nécessaires à la configuration et à la manipulation des GPIO.
