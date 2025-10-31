@@ -60,10 +60,6 @@ Contient les prototypes des fonctions et les définitions de macros nécessaires
 Les contributions sont les bienvenues !
 N’hésitez pas à ouvrir une issue ou à proposer une pull request pour améliorer le projet.
 
-# 📜 Licence
-Ce projet est distribué sous licence MIT.
-Consultez le fichier LICENSE pour plus d’informations.
-
 # 📧 Contact
 Pour toute question, suggestion ou collaboration, vous pouvez me contacter via :
 
